@@ -187,7 +187,7 @@ const bruno = {
   
   ### ⚡ *"Transformando código em soluções, bugs em aprendizado e café em software!"* ☕
   
-  ![Visitor Count](https://profile-counter.glitch.me/brunogabriel/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/Bruno-GabrielDev/count.svg)
   
   **Obrigado pela visita!** 😊
   
