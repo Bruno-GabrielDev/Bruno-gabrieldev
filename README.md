@@ -36,7 +36,7 @@ const bruno = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Bruno-GabrielDev&theme=tokyonight&locale=pt-br" alt="GitHub Streak"/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bruno-GabrielDev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
 ---
