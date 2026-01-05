@@ -32,7 +32,7 @@ const bruno = {
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bruno-GabrielDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bruno-GabrielDev&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br"/>
+  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bruno-GabrielDev&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br"/>
 </div>
 
 <div align="center">
