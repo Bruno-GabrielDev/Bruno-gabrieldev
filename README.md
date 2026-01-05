@@ -187,7 +187,7 @@ const bruno = {
   
   ### ⚡ *"Transformando código em soluções, bugs em aprendizado e café em software!"* ☕
   
-  ![Visitor Count](https://profile-counter.glitch.me/Bruno-GabrielDev/count.svg)
+  ![](https://komarev.com/ghpvc/?username=Bruno-GabrielDev&color=58A6FF&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL)
   
   **Obrigado pela visita!** 😊
   
