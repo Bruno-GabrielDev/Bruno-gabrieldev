@@ -168,6 +168,7 @@ const bruno = {
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-silva-944988351/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bruno-GabrielDev)
+  [![Currículo](https://img.shields.io/badge/Currículo-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1rcxYNF9xtX9YsBy-tDnYPAwSkBOOwr3V/view?usp=sharing)
   
 </div>
 
