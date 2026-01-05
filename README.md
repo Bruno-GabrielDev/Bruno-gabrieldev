@@ -161,26 +161,6 @@ const bruno = {
 
 ---
 
-## 🎯 Áreas de Interesse
-
-```mermaid
-mindmap
-  root((Bruno Gabriel))
-    Desenvolvimento Web
-      Front-end
-      Back-end
-      Full Stack
-    Robótica
-      Competições
-      Automação
-      IoT
-    Inovação
-      Novas Tecnologias
-      Soluções Criativas
-      Aprendizado Contínuo
-```
-
----
 
 ## 📫 Vamos Conectar?
 
