@@ -28,19 +28,6 @@ const bruno = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bruno-GabrielDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bruno-GabrielDev&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br&card_width=300"/>
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bruno-GabrielDev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -158,6 +145,20 @@ const bruno = {
 
 <br/>
 <br/>
+
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bruno-GabrielDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bruno-GabrielDev&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br&card_width=300"/>
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bruno-GabrielDev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
 
 ---
 
