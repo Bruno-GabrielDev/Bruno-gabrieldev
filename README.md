@@ -24,7 +24,7 @@ const bruno = {
 };
 ```
 
-💡 **Minha Jornada:** Desde o ensino médio me envolvi com robótica, participando ativamente de competições. Essa experiência despertou minha paixão por tecnologia e me levou a seguir carreira em desenvolvimento de software, onde busco criar soluções que fazem a diferença.
+💡 **Minha Jornada:** Desde o ensino médio me envolvi com robótica, participando ativamente de competições. Essa experiência despertou minha paixão por tecnologia e me levou a seguir carreira em desenvolvimento de software, onde busco criar soluções que façam a diferença.
 
 ---
 
