@@ -24,7 +24,9 @@ const bruno = {
 };
 ```
 
-💡 **Minha Jornada:** Desde o ensino médio me envolvi com robótica, participando ativamente de competições. Essa experiência despertou minha paixão por tecnologia e me levou a seguir carreira em desenvolvimento de software, onde busco criar soluções que façam a diferença.
+💡 **Minha Jornada:** Desde o ensino médio me envolvi com robótica, participando ativamente de competições. Essa experiência despertou minha paixão por tecnologia e me levou a seguir carreira em desenvolvimento de software, onde busco criar soluções que façam a diferença.Atualmente estou cursando Engenharia de Software no Instituto Federal de São Paulo, ja trabalhei na construção de aplicativos para Embrapa e em pesquisas com redes complexas.
+
+💡 **My Journey:** My passion for technology began in high school through competitive robotics. That experience drove me toward a career in software development, where I strive to build solutions that make a real impact. Currently, I am pursuing a degree in Software Engineering at the Federal Institute of São Paulo (IFSP). My professional background includes developing applications for Embrapa and conducting research on complex networks.
 
 ---
 
